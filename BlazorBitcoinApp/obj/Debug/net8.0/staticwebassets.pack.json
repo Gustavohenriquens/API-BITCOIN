@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\obj\\Debug\\net8.0\\compressed\\i367dv95z3.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorBitcoinApp.styles.css",
+      "PackagePath": "staticwebassets\\BlazorBitcoinApp.styles.css"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\plotly-interop.js",
+      "PackagePath": "staticwebassets\\plotly-interop.js"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\plotly-latest.min.js",
+      "PackagePath": "staticwebassets\\plotly-latest.min.js"
+    },
+    {
+      "Id": "D:\\Projeto_vs_dotnet_c#\\BlazorBitcoinApp\\BlazorBitcoinApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorBitcoinApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorBitcoinApp.props",
+      "PackagePath": "build\\BlazorBitcoinApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorBitcoinApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorBitcoinApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorBitcoinApp.props",
+      "PackagePath": "buildTransitive\\BlazorBitcoinApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
